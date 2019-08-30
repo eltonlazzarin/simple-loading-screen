@@ -1,2 +1,2 @@
 # Simple loading screen
-Login web page
+Login web pages
