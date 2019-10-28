@@ -1,2 +1,2 @@
-# Simple loading screen
+# Simple loading screens
 Login web page
